@@ -1,0 +1,7 @@
+head
+master id:serial
+password:coders
+
+student
+id:student
+pass:fast

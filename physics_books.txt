@@ -1,0 +1,5 @@
+general physics		-	2nd
+atomic physics		-	3rd
+specific relativity	-	1st
+astronomy		-	11th
+plasma physics		-	2nd

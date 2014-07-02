@@ -1,0 +1,69 @@
+view_record.c :
+
+void view_student(int n)
+void record_console(int N) 
+
+view_books_console.c :
+
+void view_books_console(void)
+void view_science_console(void)
+void view_computer_console(void)
+void view_physics_console(void)
+void view_novels_console(void)
+void view_others_console(void)
+
+view_all_books.c :
+
+void view_all_books(int n)
+
+security.c
+
+void reg(void)
+void login(void)
+
+search_book.c :
+
+
+void searchbook(int N)
+void search_computer(int N)
+void search_science(int N)
+ void search_novels(int N)
+void search_physics(int N)
+void search_others(int N)
+
+mylib.c :
+
+void sleeping(void)
+ void start_menu(void)
+void section_1(void)
+void section(void)
+void serial(void)
+void exit1(void)
+
+manage_accounts.c :
+
+void manage_account(void)
+void view_pass(void)
+void change_info(void)
+
+delete_record.c :
+
+void Delete(void)
+
+
+add_student.c :
+
+void add_student(void)
+void add_student_section(void)
+
+add_book.c :
+
+struct book
+void addbook(void)
+void add_science(void)
+void add_computer(void)
+void add_novels(void)
+void add_physics(void)
+void add_others(void)
+
+

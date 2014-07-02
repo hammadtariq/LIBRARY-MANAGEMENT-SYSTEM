@@ -1,0 +1,5 @@
+ear,nose and throat	iqbal hussain	3rd	
+clinical medicine	anne ballinger	4th	
+drug manual		michael		-
+intro to algorithms	thomas		2nd
+calculus		thomas finney	7th
